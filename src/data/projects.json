@@ -1,0 +1,9 @@
+[
+  {
+    "id": "finance-manager",
+    "title": "Finance Manager",
+    "description": "Gerenciador de finanças pessoais em Python com interface Tkinter.",
+    "tags": ["Python", "Tkinter", "Pandas"],
+    "link": "https://github.com/SEU_USUARIO/Finance_Manager"
+  }
+]
